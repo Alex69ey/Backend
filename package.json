@@ -19,6 +19,7 @@
     "hardhat": "^2.23.0"
   },
   "dependencies": {
-    "eth-crypto": "^2.7.0"
+    "eth-crypto": "^2.7.0",
+    "react-scripts": "^5.0.1"
   }
 }
